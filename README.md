@@ -16,6 +16,8 @@
 
 <br/>
 
-📚📖 Sigo bem firme nos meus estudos e esperando uma singela oportunidade, futuramente penso em tirar minha certificação <strong>"AWS Certified Solutions Architect ‒ Associate"</strong>
+📚📖 Sigo bem firme nos meus estudos e esperando uma singela oportunidade
 
-:coffee :video_game Curto tomar um coffee! E jogar um game (porém nada bom em nenhum que eu jogo), sinceramente não consigo ficar sem café... 
+🚀 Futuramente penso em tirar minha certificação <strong>"AWS Certified Solutions Architect ‒ Associate"</strong>
+
+☕🎮 Curto tomar um coffee! E jogar um game (porém nada bom em nenhum que eu jogo), sinceramente não consigo ficar sem café... 
