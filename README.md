@@ -11,9 +11,9 @@ Atuo com HTML5, CSS3, JavaScript (ES6+), React.js e React Native no frontend, e 
 - TDD;
 - Design Patterns.
 
-### Com familiaridade em arquiteturas modernas (microservices, serverless e cloud-native).
-### Valorizo colaboração, code review de qualidade e times ágeis orientados a produto.
+### Com familiaridade em arquiteturas modernas (microservices, serverless e cloud-native).<br>Valorizo colaboração, code review de qualidade e times ágeis orientados a produto.
 
+<br>
 
 ## 🔧 Stack
 
