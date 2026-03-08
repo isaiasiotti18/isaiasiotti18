@@ -18,7 +18,7 @@ Atuo com HTML5, CSS3, JavaScript (ES6+), React.js e React Native no frontend, e 
 ## 🔧 Stack
 
 - Frontend: HTML5/CSS3, JavaScript/Typescript, React.js, React Native, Tailwindcss, Nextjs;
-- Backend: Java, Spring Boot, Node.js, Express, NestJS, Fastify;
+- Backend: Java, Spring Boot, Quarkus, Node.js, Express, NestJS, Fastify;
 - Banco de Dados: MySQL, PostgreSQL, MongoDB, DynamoDB, SQL Server, Oracle DB;
 - Infra: Docker, AWS, GCP, Linux, Servidores Linux;
 - Outros: Git/GitHub, CI/CD, Microservices, GraphQL, Deploy na Vercel, Github Actions.
